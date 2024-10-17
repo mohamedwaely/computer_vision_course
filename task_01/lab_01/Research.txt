@@ -1,0 +1,9 @@
+
+- What is the Latest version of YOLO is YOLOv11
+                                        --------
+
+- the best YOLO version is YOLO v7 algorithm achieves the highest accuracy among all other real-time object detection models.
+  while achieving 30 FPS or higher using a GPU V100.
+
+
+

@@ -1,0 +1,19 @@
+
+                            How Computer Vision Changes the World in Driving Cars 
+                            -----------------------------------------------------
+
+- Computer vision has revolutionized the development of self-driving cars 
+    by enabling vehicles to interpret and navigate their surroundings.
+ 
+- By using cameras, sensors, and machine learning algorithms, 
+    autonomous cars can detect objects, recognize traffic signs, 
+    and make real-time decisions. 
+
+- Technologies like YOLO (You Only Look Once) and TensorFlow have enhanced object detection speed and accuracy, 
+    allowing cars to respond quickly to hazards. 
+
+- This advancement has reduced the need for human intervention, increased road safety, 
+    and paved the way for smarter transportation systems.
+
+- Self-driving cars promise a future with fewer accidents, lower emissions, and more efficient traffic flow.
+
